@@ -1,6 +1,6 @@
 package com.syne.assign;
 
-//class for runnable threads
+//class for colors runnable threads
  class ColorRunnable implements Runnable{
 	 
 	public int PRINT_COLORS_UPTO=21;
